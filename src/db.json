@@ -1,0 +1,23 @@
+{
+  "statusCode": 200,
+  "data": [
+    {
+      "id": "3",
+      "name": "Roma",
+      "region": "Lazio",
+      "country": "Italia"
+    },
+    {
+      "id": "3",
+      "name": "Roma",
+      "region": "Lazio",
+      "country": "Italia"
+    },
+    {
+      "id": "37d2",
+      "name": "",
+      "region": "",
+      "country": ""
+    }
+  ]
+}
